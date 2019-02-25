@@ -1,6 +1,6 @@
 // Author: Atharv Damle
 // Function to measure the number of numbers shifted while sorting using insertion sort.
-// Full Question: https://www.hackerrank.com/challenges/encryption/problem
+// Full Question: https://www.hackerrank.com/challenges/runningtime/problem
 
 static int runningTime(int[] arr) {
     int count = 0;
