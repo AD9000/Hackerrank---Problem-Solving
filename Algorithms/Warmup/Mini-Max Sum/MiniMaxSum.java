@@ -1,6 +1,6 @@
 // Author: Atharv Damle
 // Function to calculate the minimum and maximum sum of an array of n elements by adding only n - 1 elements 
-// Full Question: https://www.hackerrank.com/challenges/encryption/problem
+// Full Question: https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 static void miniMaxSum(int[] arr) {
 
