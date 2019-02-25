@@ -101,9 +101,15 @@ int main()
     FILE* fptr = fopen(getenv("OUTPUT_PATH"), "w");
 
     // Accept input.
-
+  
+    // Start the clock
+    TICK(X);
+  
     // Call function
     timeInWords(h, m, fptr);
+    
+    // Stop the clock and print the elapsed time
+    TOCK(X);
 
     fclose(fptr);
 
