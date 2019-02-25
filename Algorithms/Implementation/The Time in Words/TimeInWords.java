@@ -1,10 +1,9 @@
+// Author: Atharv Damle
+// To convert the time in number format to words according to given constraints...
+// Full Question: https://www.hackerrank.com/challenges/the-time-in-words/problem
+
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 public class TimeInWords {
 
