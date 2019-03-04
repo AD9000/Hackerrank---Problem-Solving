@@ -1,7 +1,9 @@
 // Author: Atharv Damle
-// Calculate the minimum cost to buy all the flowers.
+// Function to calculate the minimum cost to buy all the flowers.
 // Full Question: https://www.hackerrank.com/challenges/greedy-florist/problem
 
+// k = number of friends
+// c = array of cost of the flowers.
 static int getMinimumCost(int k, int[] c) {
     Arrays.sort(c);
     int sum = 0;
