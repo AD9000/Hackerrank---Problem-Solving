@@ -13,7 +13,7 @@
 #include <string.h>
 #include <time.h>
 
-// The TICK and TOCK macros are to measure time. A simple comparison betweent the functions in java and c
+// The TICK and TOCK macros are to measure time. A simple comparison between the functions in java and c
 // reveals that C is much faster than java. C takes around 9.5 x 10^-5 seconds whereas java takes around 0.001 seconds
 // (And the C program is longer!! I know that is not a category to measure efficiency but it is just really amazing how much
 // faster C is)
